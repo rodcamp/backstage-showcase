@@ -47,6 +47,7 @@ integrations:
       apiBaseUrl: temp
       username: temp
       password: temp
+
   gitlab:
     - host: gitlab.com
       token: temp
